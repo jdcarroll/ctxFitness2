@@ -1,0 +1,10 @@
+# Site settings
+title: CTX Fitness
+email: jcarroll@fullsail.edu
+description: Visualize this thing you want. See it, feel it, believe in it. Make your mental blueprint and begin.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: crossfitctx
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTX Fitness</title>
+    <description>Visualize this thing you want. See it, feel it, believe in it. Make your mental blueprint and begin.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 29 Mar 2015 08:40:23 -0400</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2015 08:40:23 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Fitness</title>
+        <description>This is a blog post about fitness</description>
+        <pubDate>Tue, 17 Mar 2015 14:42:40 -0400</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/03/17/fitness.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/17/fitness.html</guid>
+        
+        <category>fitness</category>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Cross Training</title>
+        <description>This is a blog post about Cross training.</description>
+        <pubDate>Tue, 17 Mar 2015 14:42:40 -0400</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/03/17/crossTraining.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/17/crossTraining.html</guid>
+        
+        <category>crossTraining</category>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
